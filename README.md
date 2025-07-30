@@ -1,11 +1,14 @@
 # Hi there! 👋 I'm Abdulhadi Alayyoub
 ## Software Engineer
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 🔭 **Currently working on:** Cross-platform mobile apps and full-stack development projects  
 🌱 **Learning:** Advancing in mobile development  
 💬 **Ask me about:** Flutter, React Native, Mobile Development, SQL, Database Design  
 📫 **Reach me:** Connect with me on LinkedIn  
 ⚡ **Fun fact:** Console.WriteLine("Hello World!"); - I love creating efficient solutions!
 
+<br clear="right"/>
 
 ## 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulhadi-eleyy%C3%BCb/)
